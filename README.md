@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
-<h3 align="center">I'm a  frontend developer from India</h3>
+<h3 align="center">I'm a  full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next Js**
 
 - 🤝 I’m looking for help with **Learning and Exploring**
 
