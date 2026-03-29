@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
-<h3 align="center">I'm a  full stack developer from India</h3>
-
-- 🌱 I’m currently learning **Next Js**
-
-- 🤝 I’m looking for help with **Learning and Exploring**
-
-- 💬 Ask me about **React,Js,Html,Css,Linux&Unix**
-
-- 📫 How to reach me **farazahmedcgf@gmail.com**
+<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Faraz+Ahmed....;Nice+to+meet+you!&size=30" size="30"></h1>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/91Fahmed)
 
 
-<b align="left">My Git Stats</b>
-<p align="left">
-<a align="left" href="http://www.github.com/91FAhmed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=91FAhmed&show_icons=true&hide=prs,issues,&count_private=true&title_color=64748b&text_color=444e59&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="91FAhmed's GitHub stats" /></a>
-</p>
+I'm a passionate developer who enjoys building practical and impactful software. II'm a passionate developer who enjoys building practical and impactful software. I love exploring new technologies, improving my coding skills, and working on projects that solve real-world problems.
+
+## 🔥 Tech Stack 🔥
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express.js&logoColor=white) ![](https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) ![](https://img.shields.io/badge/Reactnative-61DAFB?style=flat-square&logo=React Native&logoColor=white) ![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcn/ui&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Aws-FF9900?style=flat-square&logo=AWS&logoColor=white) ![](https://img.shields.io/badge/Restapi-4A4A4A?style=flat-square&logo=REST API&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+## 💻 GitHub Stats 💻
+
+<img src="https://github-readme-stats.vercel.app/api?username=91FAhmed&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=91FAhmed&theme=vue&hide_border=false" align="left" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=91FAhmed&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+## 🚀 Top Repositories 🚀
+![](https://github-contributor-stats.vercel.app/api?username=91FAhmed&limit=5&theme=vue&combine_all_yearly_contributions=true)
+    
+
+<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
